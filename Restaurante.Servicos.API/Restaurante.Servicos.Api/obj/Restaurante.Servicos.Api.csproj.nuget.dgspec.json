@@ -1,0 +1,349 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj",
+        "projectName": "Restaurante.Aplicacao",
+        "projectPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj",
+        "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Aplicacao\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Dominio\\Restaurante.Dominio.csproj": {
+                "projectPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Dominio\\Restaurante.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Dominio\\Restaurante.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Dominio\\Restaurante.Dominio.csproj",
+        "projectName": "Restaurante.Dominio",
+        "projectPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Dominio\\Restaurante.Dominio.csproj",
+        "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Infra.Data\\Restaurante.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Infra.Data\\Restaurante.Infra.Data.csproj",
+        "projectName": "Restaurante.Infra.Data",
+        "projectPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Infra.Data\\Restaurante.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Dominio\\Restaurante.Dominio.csproj": {
+                "projectPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Dominio\\Restaurante.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Infra.IoC\\Restaurante.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Infra.IoC\\Restaurante.Infra.IoC.csproj",
+        "projectName": "Restaurante.Infra.IoC",
+        "projectPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Infra.IoC\\Restaurante.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Infra.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj": {
+                "projectPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj"
+              },
+              "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Dominio\\Restaurante.Dominio.csproj": {
+                "projectPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Dominio\\Restaurante.Dominio.csproj"
+              },
+              "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Infra.Data\\Restaurante.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Infra.Data\\Restaurante.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api.csproj",
+        "projectName": "Restaurante.Servicos.Api",
+        "projectPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api.csproj",
+        "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj": {
+                "projectPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj"
+              },
+              "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Infra.IoC\\Restaurante.Infra.IoC.csproj": {
+                "projectPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Servicos.Api\\Restaurante.Infra.IoC\\Restaurante.Infra.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Aplicacao\obj\Debug\net6.0\Restaurante.Aplicacao.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Aplicacao\obj\Debug\net6.0\Restaurante.Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Aplicacao\obj\Debug\net6.0\Restaurante.Aplicacao.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Aplicacao\obj\Debug\net6.0\Restaurante.Aplicacao.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Aplicacao\obj\Debug\net6.0\Restaurante.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Aplicacao\bin\Debug\net6.0\Restaurante.Aplicacao.deps.json
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Aplicacao\bin\Debug\net6.0\Restaurante.Aplicacao.dll
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Aplicacao\bin\Debug\net6.0\Restaurante.Aplicacao.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Aplicacao\bin\Debug\net6.0\Restaurante.Dominio.dll
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Aplicacao\bin\Debug\net6.0\Restaurante.Dominio.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Aplicacao\obj\Debug\net6.0\Restaurante.Aplicacao.csproj.CopyComplete
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Aplicacao\obj\Debug\net6.0\Restaurante.Aplicacao.dll
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Aplicacao\obj\Debug\net6.0\refint\Restaurante.Aplicacao.dll
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Aplicacao\obj\Debug\net6.0\Restaurante.Aplicacao.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Aplicacao\obj\Debug\net6.0\ref\Restaurante.Aplicacao.dll

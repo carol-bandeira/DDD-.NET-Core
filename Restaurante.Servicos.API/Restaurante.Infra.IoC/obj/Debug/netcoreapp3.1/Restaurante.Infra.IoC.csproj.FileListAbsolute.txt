@@ -1,0 +1,17 @@
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.IoC\bin\Debug\netcoreapp3.1\Restaurante.Infra.IoC.deps.json
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.IoC\bin\Debug\netcoreapp3.1\Restaurante.Infra.IoC.dll
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.IoC\bin\Debug\netcoreapp3.1\Restaurante.Infra.IoC.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.IoC\bin\Debug\netcoreapp3.1\Restaurante.Aplicacao.dll
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.IoC\bin\Debug\netcoreapp3.1\Restaurante.Dominio.dll
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.IoC\bin\Debug\netcoreapp3.1\Restaurante.Infra.Data.dll
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.IoC\bin\Debug\netcoreapp3.1\Restaurante.Aplicacao.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.IoC\bin\Debug\netcoreapp3.1\Restaurante.Dominio.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.IoC\bin\Debug\netcoreapp3.1\Restaurante.Infra.Data.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.IoC\obj\Debug\netcoreapp3.1\Restaurante.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.IoC\obj\Debug\netcoreapp3.1\Restaurante.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.IoC\obj\Debug\netcoreapp3.1\Restaurante.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.IoC\obj\Debug\netcoreapp3.1\Restaurante.Infra.IoC.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.IoC\obj\Debug\netcoreapp3.1\Restaurante.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.IoC\obj\Debug\netcoreapp3.1\Restaurante.Infra.IoC.csproj.CopyComplete
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.IoC\obj\Debug\netcoreapp3.1\Restaurante.Infra.IoC.dll
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.IoC\obj\Debug\netcoreapp3.1\Restaurante.Infra.IoC.pdb

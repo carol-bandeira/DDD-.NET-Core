@@ -1,0 +1,13 @@
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.Data\bin\Debug\netcoreapp3.1\Restaurante.Infra.Data.deps.json
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.Data\bin\Debug\netcoreapp3.1\Restaurante.Infra.Data.dll
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.Data\bin\Debug\netcoreapp3.1\Restaurante.Infra.Data.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.Data\bin\Debug\netcoreapp3.1\Restaurante.Dominio.dll
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.Data\bin\Debug\netcoreapp3.1\Restaurante.Dominio.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.Data\obj\Debug\netcoreapp3.1\Restaurante.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.Data\obj\Debug\netcoreapp3.1\Restaurante.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.Data\obj\Debug\netcoreapp3.1\Restaurante.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.Data\obj\Debug\netcoreapp3.1\Restaurante.Infra.Data.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.Data\obj\Debug\netcoreapp3.1\Restaurante.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.Data\obj\Debug\netcoreapp3.1\Restaurante.Infra.Data.csproj.CopyComplete
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.Data\obj\Debug\netcoreapp3.1\Restaurante.Infra.Data.dll
+C:\Users\carol\OneDrive\Área de Trabalho\DDD-.NET-Core\Restaurante.Servicos.Api\Restaurante.Infra.Data\obj\Debug\netcoreapp3.1\Restaurante.Infra.Data.pdb

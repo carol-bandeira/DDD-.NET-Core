@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj",
+        "projectName": "Restaurante.Aplicacao",
+        "projectPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj",
+        "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Aplicacao\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Dominio\\Restaurante.Dominio.csproj": {
+                "projectPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Dominio\\Restaurante.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Dominio\\Restaurante.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Dominio\\Restaurante.Dominio.csproj",
+        "projectName": "Restaurante.Dominio",
+        "projectPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Dominio\\Restaurante.Dominio.csproj",
+        "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carol\\OneDrive\\Área de Trabalho\\DDD-.NET-Core\\Restaurante.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
